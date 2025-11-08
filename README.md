@@ -14,14 +14,14 @@ It’s useful for students, researchers, and professionals who want to quickly e
 - Get summarized, context-aware answers instantly.
 
 **Technologies Used**
-- Python 3.10+
+- Python 3.12
 - Streamlit – For the user interface
 - PyPDF2 – To extract text from PDF files
 - SentenceTransformers – For creating embeddings
 - FAISS – For similarity search and retrieval
 - Transformers (Hugging Face) – For language understanding
 
-**Example Questions**(to be asked while testing, if we are testing on any research paper)
+**Example Questions**(To be asked while testing, if we are testing on any research paper)
 - What is the main idea of this paper?
 - Which dataset was used in the experiment?
 - Explain the workflow discussed in the document.
